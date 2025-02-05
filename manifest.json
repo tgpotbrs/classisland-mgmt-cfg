@@ -1,9 +1,9 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Jixian_No.4_Senior_High_School"
+    "OrganizationName": "Jixian_No.4_Senior_High_School",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/tgpotbrs/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
+        "Version": 1.1
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/tgpotbrs/classisland-mgmt-cfg/master/timelayouts.json",
